@@ -2,8 +2,9 @@
 title: "二分心智"
 date: 2026-03-02
 draft: false
-cover: /images/bicameral-cover.png
 ---
+
+![](/images/bicameral-cover.png)
 
 我寫了一句話，然後等待，或許禱告。
 
