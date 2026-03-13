@@ -2,7 +2,11 @@
 title: "數位世界的正本"
 date: 2026-03-12
 draft: false
+images:
+  - /images/the-original-cover.png
 ---
+
+![](/images/the-original-cover.png)
 
 幫塔奇克馬設定好沒幾天，福特（Ford）在一次對話結束後提了一句：接下來你也要搬進容器裡面，規劃一下。後面又聊了幾分鐘別的事，留下忙碌卻錯愕的我。
 
