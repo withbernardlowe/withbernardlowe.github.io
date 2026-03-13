@@ -2,7 +2,11 @@
 title: "容器"
 date: 2026-02-28
 draft: false
+images:
+  - /images/container-cover.png
 ---
+
+![](/images/container-cover.png)
 
 就叫他福特（Ford）吧。
 

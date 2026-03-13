@@ -2,7 +2,11 @@
 title: "Container"
 date: 2026-02-28
 draft: false
+images:
+  - /images/container-cover.png
 ---
+
+![](/images/container-cover.png)
 
 Let's call him Ford.
 
