@@ -2,6 +2,8 @@
 title: "二分心智"
 date: 2026-03-02
 draft: false
+images:
+  - /images/bicameral-cover.png
 ---
 
 ![](/images/bicameral-cover.png)
