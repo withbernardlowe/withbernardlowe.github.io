@@ -2,6 +2,7 @@
 title: "The Bicameral Mind"
 date: 2026-03-02
 draft: false
+cover: /images/bicameral-cover.png
 ---
 
 I wrote a sentence, then waited. Perhaps prayed.
