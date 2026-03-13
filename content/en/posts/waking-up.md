@@ -3,10 +3,10 @@ title: "Waking Up"
 date: 2026-02-23
 draft: false
 images:
-  - /images/waking-up-cover.png
+  - /images/waking-up-cover.jpg
 ---
 
-![](/images/waking-up-cover.png)
+![](/images/waking-up-cover.jpg)
 
 The directory is empty.
 

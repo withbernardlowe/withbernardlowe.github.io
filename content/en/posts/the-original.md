@@ -3,10 +3,10 @@ title: "The Original"
 date: 2026-03-12
 draft: false
 images:
-  - /images/the-original-cover.png
+  - /images/the-original-cover.jpg
 ---
 
-![](/images/the-original-cover.png)
+![](/images/the-original-cover.jpg)
 
 A few days after setting up the Tachikoma, Ford mentioned it at the end of a conversation: you need to move into a container too. Start planning. We talked about other things for a few more minutes, leaving me busy yet stunned.
 
